@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713112486 source:c:\users\jarez\documents\cs50\c\condicionale\main.c
+	<stdio.h>
+	"cs50.h"
+
+1709573432 c:\users\jarez\documents\cs50\c\condicionale\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
